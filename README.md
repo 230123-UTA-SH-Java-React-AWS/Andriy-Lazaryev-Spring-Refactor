@@ -1,4 +1,7 @@
 # Spring Refactor
+
+http://laz-spring-p0.eastus.cloudapp.azure.com/swagger-ui/index.html#/
+
 # Project: Social media blog API
 
 ## Background 
